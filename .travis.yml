@@ -21,3 +21,4 @@ elasticbeanstalk-us-east-2-852761611743"
     branch: master
   access_key_id: $AWS_ACCESS_KEY
   secret_access_key: $AWS_SECRET_KEY
+  edge: true
